@@ -1,0 +1,18 @@
+[
+  {
+    "Text": "Add a peer-to-peer networknig solution",
+    "Done": false
+  },
+  {
+    "Text": "Add reliable connection features (connect, disconnect, send, receive)",
+    "Done": false
+  },
+  {
+    "Text": "Add the ability to browse and send files",
+    "Done": false
+  },
+  {
+    "Text": "Add protection of DDoS by banning ip's and storing them into a redis database",
+    "Done": false
+  }
+]
